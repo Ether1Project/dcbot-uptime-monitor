@@ -1,0 +1,54 @@
+"Servers": [
+        {
+            "Name": "Main Ether-1 Website",
+            "Address": "ether1.org",
+            "Port": 80
+        }, {
+            "Name": "ethoFS Website",
+            "Address": "ethofs.com",
+            "Port": 80
+        }, {
+            "Name": "Ether-1 Staking Website",
+            "Address": "staking.ethofs.com",
+            "Port": 80
+        }, {
+		    "Name": "Ether-1 Nodes Website",
+            "Address": "nodes.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Ether-1 Wallet Website",
+            "Address": "wallet.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Ether-1 Blocks Explorer Website",
+            "Address": "blocks.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Ether-1 Explorer Website",
+            "Address": "explorer.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Ether-1 Richlist Website",
+            "Address": "richlist.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Ether-1 Stats Website",
+            "Address": "stats.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Ether-1 Documentation Website",
+            "Address": "docs.ether1.org",
+            "Port": 80
+		}, {
+		    "Name": "Main Xerom Website",
+            "Address": "xerom.org",
+            "Port": 80				
+		}, {
+		    "Name": "Xerom Explorer Website",
+            "Address": "explorer.xerom.org",
+            "Port": 80		
+		}, {
+		    "Name": "Xerom Wallet Website",
+            "Address": "wallet.xerom.org",
+            "Port": 80	
+		}
