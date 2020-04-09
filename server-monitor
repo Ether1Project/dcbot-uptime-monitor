@@ -76,7 +76,6 @@
             "Address": "xeropool.ether1.cloud",
             "Port": 2444
 	}, {
-	
             "Name": "ETHO-Nodes.cloud Team",
             "Address": "etho-nodes.cloud",
             "Port": 80
