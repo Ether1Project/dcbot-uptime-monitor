@@ -1,54 +1,54 @@
     "Servers": [
         {
-            "Name": "Main Ether-1 Website",
+            "Name": "Official Ether-1 Website",
             "Address": "ether1.org",
             "Port": 80
         }, {
-            "Name": "Main ethoFS Website",
+            "Name": "Official ethoFS Website",
             "Address": "ethofs.com",
             "Port": 80
         }, {
-            "Name": "Main Ether-1 Staking Website",
+            "Name": "Official Ether-1 Staking Website",
             "Address": "staking.ethofs.com",
             "Port": 80
         }, {
-            "Name": "Main Ether-1 Nodes Website",
+            "Name": "Official Ether-1 Nodes Website",
             "Address": "nodes.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Main Ether-1 Wallet Website",
+	    "Name": "Official Ether-1 Wallet Website",
             "Address": "wallet.ether1.org",
             "Port": 80
 	}, {
-            "Name": "Main Ether-1 Secondary Explorer Website",
+            "Name": "Official Ether-1 Basic Explorer Website",
             "Address": "blocks.ether1.org",
             "Port": 80
 	}, {
-            "Name": "Main Ether-1 Primary Explorer Website",
+            "Name": "Official Ether-1 Blockscout Explorer Website",
             "Address": "explorer.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Main Ether-1 Richlist Website",
+	    "Name": "Official Ether-1 Richlist Website",
             "Address": "richlist.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Main Ether-1 Stats Website",
+	    "Name": "Official Ether-1 Stats Website",
             "Address": "stats.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Main Ether-1 Documentation Website",
+	    "Name": "Official Ether-1 Documentation Website",
             "Address": "docs.ether1.org",
             "Port": 80
 	}, {
-            "Name": "Main Xerom Website",
+            "Name": "Official Xerom Website",
             "Address": "xerom.org",
             "Port": 80				
 	}, {
-            "Name": "Main Xerom Explorer Website",
+            "Name": "Official Xerom Explorer Website",
             "Address": "explorer.xerom.org",
             "Port": 80		
 	}, {
-	    "Name": "Main Xerom Wallet Website",
+	    "Name": "Official Xerom Wallet Website",
             "Address": "wallet.xerom.org",
             "Port": 80	
 	}, {
@@ -67,14 +67,6 @@
             "Name": "Ether1.cloud Team RPC Server",
             "Address": "rpc.ether1.cloud",
             "Port": 80			
-	}, {
-            "Name": "Ether1.cloud Team ETHO Mining Pool",
-            "Address": "ethopool.ether1.cloud",
-            "Port": 1444
-	}, {
-	    "Name": "Ether1.cloud Team XERO Mining Pool",
-            "Address": "xeropool.ether1.cloud",
-            "Port": 2444
 	}, {
             "Name": "ETHO-Nodes.cloud Team",
             "Address": "etho-nodes.cloud",
