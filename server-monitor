@@ -44,11 +44,11 @@
             "Address": "xerom.org",
             "Port": 80				
 	}, {
-            "Name": "Xerom Explorer Website",
+            "Name": "Main Xerom Explorer Website",
             "Address": "explorer.xerom.org",
             "Port": 80		
 	}, {
-	    "Name": "Xerom Wallet Website",
+	    "Name": "Main Xerom Wallet Website",
             "Address": "wallet.xerom.org",
             "Port": 80	
 	}, {
