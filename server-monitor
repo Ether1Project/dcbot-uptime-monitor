@@ -4,39 +4,39 @@
             "Address": "ether1.org",
             "Port": 80
         }, {
-            "Name": "ethoFS Website",
+            "Name": "Main ethoFS Website",
             "Address": "ethofs.com",
             "Port": 80
         }, {
-            "Name": "Ether-1 Staking Website",
+            "Name": "Main Ether-1 Staking Website",
             "Address": "staking.ethofs.com",
             "Port": 80
         }, {
-            "Name": "Ether-1 Nodes Website",
+            "Name": "Main Ether-1 Nodes Website",
             "Address": "nodes.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Ether-1 Wallet Website",
+	    "Name": "Main Ether-1 Wallet Website",
             "Address": "wallet.ether1.org",
             "Port": 80
 	}, {
-            "Name": "Ether-1 Blocks Explorer Website",
+            "Name": "Main Ether-1 Secondary Explorer Website",
             "Address": "blocks.ether1.org",
             "Port": 80
 	}, {
-            "Name": "Ether-1 Explorer Website",
+            "Name": "Main Ether-1 Primary Explorer Website",
             "Address": "explorer.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Ether-1 Richlist Website",
+	    "Name": "Main Ether-1 Richlist Website",
             "Address": "richlist.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Ether-1 Stats Website",
+	    "Name": "Main Ether-1 Stats Website",
             "Address": "stats.ether1.org",
             "Port": 80
 	}, {
-	    "Name": "Ether-1 Documentation Website",
+	    "Name": "Main Ether-1 Documentation Website",
             "Address": "docs.ether1.org",
             "Port": 80
 	}, {
@@ -51,4 +51,37 @@
 	    "Name": "Xerom Wallet Website",
             "Address": "wallet.xerom.org",
             "Port": 80	
-	}	
+	}, {
+	    "Name": "Ether1.cloud Team Website",
+            "Address": "ether1.cloud",
+            "Port": 80
+	}, {
+	    "Name": "ethoFS.cloud Team Website",
+            "Address": "ethofs.cloud",
+            "Port": 80
+	}, {
+	    "Name": "Main Ether-1 RPC Server",
+            "Address": "rpc.ether1.org",
+            "Port": 80
+	}, {
+            "Name": "Ether1.cloud Team RPC Server",
+            "Address": "rpc.ether1.cloud",
+            "Port": 80			
+	}, {
+            "Name": "Ether1.cloud Team ETHO Mining Pool",
+            "Address": "ethopool.ether1.cloud",
+            "Port": 1444
+	}, {
+	    "Name": "Ether1.cloud Team XERO Mining Pool",
+            "Address": "xeropool.ether1.cloud",
+            "Port": 2444
+	}, {
+	
+            "Name": "ETHO-Nodes.cloud Team",
+            "Address": "etho-nodes.cloud",
+            "Port": 80
+	}, {
+	    "Name": "Ether1.cloud Documentation Website",
+            "Address": "docs.ether1.cloud",
+            "Port": 80
+	}
