@@ -75,4 +75,8 @@
 	    "Name": "Ether1.cloud Documentation Website",
             "Address": "docs.ether1.cloud",
             "Port": 80
+	}, {
+	    "Name": "etho.pink Team Website",
+            "Address": "etho.pink",
+            "Port": 80
 	}
