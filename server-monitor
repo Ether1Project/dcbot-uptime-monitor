@@ -79,4 +79,8 @@
 	    "Name": "etho.pink Team Website",
             "Address": "etho.pink",
             "Port": 80
+	}, {
+	    "Name": "Official Ether-1 Treasury Multisig",
+            "Address": "fund.ether1.org",
+            "Port": 80
 	}
